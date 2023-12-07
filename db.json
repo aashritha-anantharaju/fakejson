@@ -1,4 +1,4 @@
-[
+{"contacts":[
   {
     "id": 1,
     "full_name": "John Doe",
@@ -140,3 +140,4 @@
     "contact_type": "supplier"
   }
 ]
+}
