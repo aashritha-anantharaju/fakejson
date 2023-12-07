@@ -1,191 +1,142 @@
 [
   {
     "id": 1,
-    "first_name": "John",
-    "last_name": "Doe",
-    "email": "john.doe@example.com",
+    "full_name": "John Doe",
     "mobile": "123-456-7890",
     "address": "123 Main St, Cityville",
     "contact_type": "customer"
   },
   {
     "id": 2,
-    "first_name": "Jane",
-    "last_name": "Smith",
-    "email": "jane.smith@example.com",
+    "full_name": "Jane Smith",
     "mobile": "987-654-3210",
     "address": "456 Oak St, Townsville",
     "contact_type": "supplier"
   },
   {
     "id": 3,
-    "first_name": "Michael",
-    "last_name": "Johnson",
-    "email": "michael.j@example.com",
+    "full_name": "Michael Johnson",
     "mobile": "555-555-5555",
     "address": "789 Pine St, Villageton",
     "contact_type": "customer"
   },
   {
     "id": 4,
-    "first_name": "Emily",
-    "last_name": "Davis",
-    "email": "emily.davis@example.com",
+    "full_name": "Emily Davis",
     "mobile": "111-222-3333",
     "address": "101 Cedar Ave, Hamletville",
     "contact_type": "supplier"
   },
   {
     "id": 5,
-    "first_name": "Daniel",
-    "last_name": "Brown",
-    "email": "daniel.brown@example.com",
+    "full_name": "Daniel Brown",
     "mobile": "777-888-9999",
     "address": "202 Maple Blvd, Grovetown",
     "contact_type": "customer"
   },
   {
     "id": 6,
-    "first_name": "Olivia",
-    "last_name": "Miller",
-    "email": "olivia.m@example.com",
+    "full_name": "Olivia Miller",
     "mobile": "333-444-5555",
     "address": "303 Elm Rd, Riverside",
     "contact_type": "supplier"
   },
   {
     "id": 7,
-    "first_name": "Ethan",
-    "last_name": "Garcia",
-    "email": "ethan.g@example.com",
+    "full_name": "Ethan Garcia",
     "mobile": "666-777-8888",
     "address": "404 Birch Ln, Hilltop",
     "contact_type": "customer"
   },
   {
     "id": 8,
-    "first_name": "Ava",
-    "last_name": "Rodriguez",
-    "email": "ava.rodriguez@example.com",
+    "full_name": "Ava Rodriguez",
     "mobile": "999-000-1111",
     "address": "505 Spruce Ct, Lakeside",
     "contact_type": "supplier"
   },
   {
     "id": 9,
-    "first_name": "Mason",
-    "last_name": "Martinez",
-    "email": "mason.m@example.com",
+    "full_name": "Mason Martinez",
     "mobile": "444-555-6666",
     "address": "606 Fir Dr, Mountainview",
     "contact_type": "customer"
   },
   {
     "id": 10,
-    "first_name": "Sophia",
-    "last_name": "Lee",
-    "email": "sophia.lee@example.com",
+    "full_name": "Sophia Lee",
     "mobile": "222-333-4444",
     "address": "707 Pine Ave, Seaside",
     "contact_type": "supplier"
   },
   {
     "id": 11,
-    "first_name": "Logan",
-    "last_name": "Lopez",
-    "email": "logan.lopez@example.com",
+    "full_name": "Logan Lopez",
     "mobile": "888-999-0000",
     "address": "808 Cedar St, Hillcrest",
     "contact_type": "customer"
   },
   {
     "id": 12,
-    "first_name": "Isabella",
-    "last_name": "Hernandez",
-    "email": "isabella.h@example.com",
+    "full_name": "Isabella Hernandez",
     "mobile": "555-666-7777",
     "address": "909 Oak Rd, Valleyview",
     "contact_type": "supplier"
   },
   {
     "id": 13,
-    "first_name": "Liam",
-    "last_name": "Smith",
-    "email": "liam.smith@example.com",
+    "full_name": "Liam Smith",
     "mobile": "111-222-3333",
     "address": "101 Cedar Ave, Hamletville",
     "contact_type": "customer"
   },
   {
     "id": 14,
-    "first_name": "Emma",
-    "last_name": "Jones",
-    "email": "emma.j@example.com",
+    "full_name": "Emma Jones",
     "mobile": "777-888-9999",
     "address": "202 Maple Blvd, Grovetown",
     "contact_type": "supplier"
   },
   {
     "id": 15,
-    "first_name": "Noah",
-    "last_name": "Williams",
-    "email": "noah.w@example.com",
+    "full_name": "Noah Williams",
     "mobile": "333-444-5555",
     "address": "303 Elm Rd, Riverside",
     "contact_type": "customer"
   },
   {
     "id": 16,
-    "first_name": "Olivia",
-    "last_name": "Davis",
-    "email": "olivia.d@example.com",
+    "full_name": "Olivia Davis",
     "mobile": "666-777-8888",
     "address": "404 Birch Ln, Hilltop",
     "contact_type": "supplier"
   },
   {
     "id": 17,
-    "first_name": "Liam",
-    "last_name": "Rodriguez",
-    "email": "liam.rodriguez@example.com",
+    "full_name": "Liam Rodriguez",
     "mobile": "999-000-1111",
     "address": "505 Spruce Ct, Lakeside",
     "contact_type": "customer"
   },
   {
     "id": 18,
-    "first_name": "Ava",
-    "last_name": "Garcia",
-    "email": "ava.g@example.com",
+    "full_name": "Ava Garcia",
     "mobile": "444-555-6666",
     "address": "606 Fir Dr, Mountainview",
     "contact_type": "supplier"
   },
   {
     "id": 19,
-    "first_name": "Jackson",
-    "last_name": "Martinez",
-    "email": "jackson.m@example.com",
+    "full_name": "Jackson Martinez",
     "mobile": "222-333-4444",
     "address": "707 Pine Ave, Seaside",
     "contact_type": "customer"
   },
   {
     "id": 20,
-    "first_name": "Sophia",
-    "last_name": "Taylor",
-    "email": "sophia.t@example.com",
+    "full_name": "Sophia Taylor",
     "mobile": "888-999-0000",
     "address": "808 Cedar St, Hillcrest",
     "contact_type": "supplier"
-  },
-  {
-    "id": 21,
-    "first_name": "Lucas",
-    "last_name": "Johnson",
-    "email": "lucas.j@example.com",
-    "mobile": "555-666-7777",
-    "address": "909 Oak Rd, Valleyview",
-    "contact_type": "customer"
   }
 ]
